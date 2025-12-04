@@ -1,7 +1,7 @@
 ---
 home: true
 icon: house
-layout: Blog
+layout: BlogHome
 title: Project home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
